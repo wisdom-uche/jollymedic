@@ -1,0 +1,27 @@
+/* header */
+/* header */
+#header .social-icons i:hover {
+    color: #31D2F2;
+}
+
+/* navbar */
+/* navbar */
+.navbar {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 85%, rgba(130,129,129,1) 100%);
+}
+
+/* banner */
+/* banner */
+#banner {
+    background: rgb(209,203,203);
+    background: radial-gradient(circle, rgba(209,203,203,1) 0%, rgba(241,241,241,0.9360994397759104) 48%, rgba(238,236,232,1) 100%);
+}
+
+
+/* footer */
+/* footer */
+#news {
+    background: rgb(209,203,203);
+    background: radial-gradient(circle, rgba(209,203,203,1) 0%, rgba(241,241,241,0.9360994397759104) 48%, rgba(238,236,232,1) 100%);
+}
